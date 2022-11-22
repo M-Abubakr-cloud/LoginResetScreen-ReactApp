@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LoginResetScreen-ReactApp/static/css/main.bb08a871.chunk.css",
+    "main.js": "/LoginResetScreen-ReactApp/static/js/main.1169bb46.chunk.js",
+    "main.js.map": "/LoginResetScreen-ReactApp/static/js/main.1169bb46.chunk.js.map",
+    "runtime-main.js": "/LoginResetScreen-ReactApp/static/js/runtime-main.81e6d23c.js",
+    "runtime-main.js.map": "/LoginResetScreen-ReactApp/static/js/runtime-main.81e6d23c.js.map",
+    "static/css/2.5012ee0b.chunk.css": "/LoginResetScreen-ReactApp/static/css/2.5012ee0b.chunk.css",
+    "static/js/2.58d1c8e8.chunk.js": "/LoginResetScreen-ReactApp/static/js/2.58d1c8e8.chunk.js",
+    "static/js/2.58d1c8e8.chunk.js.map": "/LoginResetScreen-ReactApp/static/js/2.58d1c8e8.chunk.js.map",
+    "static/js/3.f6a3c1fd.chunk.js": "/LoginResetScreen-ReactApp/static/js/3.f6a3c1fd.chunk.js",
+    "static/js/3.f6a3c1fd.chunk.js.map": "/LoginResetScreen-ReactApp/static/js/3.f6a3c1fd.chunk.js.map",
+    "index.html": "/LoginResetScreen-ReactApp/index.html",
+    "static/css/2.5012ee0b.chunk.css.map": "/LoginResetScreen-ReactApp/static/css/2.5012ee0b.chunk.css.map",
+    "static/css/main.bb08a871.chunk.css.map": "/LoginResetScreen-ReactApp/static/css/main.bb08a871.chunk.css.map",
+    "static/js/2.58d1c8e8.chunk.js.LICENSE.txt": "/LoginResetScreen-ReactApp/static/js/2.58d1c8e8.chunk.js.LICENSE.txt",
+    "static/media/auth.scss": "/LoginResetScreen-ReactApp/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81e6d23c.js",
+    "static/css/2.5012ee0b.chunk.css",
+    "static/js/2.58d1c8e8.chunk.js",
+    "static/css/main.bb08a871.chunk.css",
+    "static/js/main.1169bb46.chunk.js"
+  ]
+}
